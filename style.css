@@ -1,0 +1,20 @@
+#but{
+    padding: 15px;
+    border-radius: 15px;
+    
+
+}
+header{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(114, 114, 153);
+    text-align: center;
+}
+
+#res{
+    margin-top: 15px;
+    font-size: 20px;
+}
